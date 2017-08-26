@@ -16,10 +16,11 @@ Aşağıdaki resimde görüldüğü gibi.<br>
 <br>
 
 # Pin şeması  <br>
-Benim BBB bağlantım P9_19 Ve P9_20 dir<br>
+Benim BBB I2C bağlantım P9_19 Ve P9_20 dir<br>
 
 ![Screen Shot](https://github.com/zafersn/BeagleboneBlack-Python_I2C_Altimu-V4-Accelometer-LSM303D-/blob/master/img/beaglebone-black-pinout.jpg)<br>
 
+![Screen Shot](https://github.com/zafersn/BeagleboneBlack-Python_I2C_Altimu-V4-Accelometer-LSM303D-/blob/master/img/IMG_20170826_205230.jpg)<br>
 
 # Referanslar <br>
 
