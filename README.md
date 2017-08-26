@@ -15,8 +15,8 @@ Aşağıdaki resimde görüldüğü gibi.<br>
 5d = barometer<br>
 <br>
 
-# Pin şeması 
-Benim BBB bağlantım P_19 Ve P_20 dir
+# Pin şeması  <br>
+Benim BBB bağlantım P9_19 Ve P9_20 dir<br>
 
 ![Screen Shot](https://github.com/zafersn/BeagleboneBlack-Python_I2C_Altimu-V4-Accelometer-LSM303D-/blob/master/img/beaglebone-black-pinout.jpg)<br>
 
